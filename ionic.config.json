@@ -1,0 +1,7 @@
+{
+  "name": "edi-manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
